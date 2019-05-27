@@ -1,2 +1,4 @@
-# RandomIdeas
-Different projects to show off my web development skills. 
+Hello my name is Kelsey.
+
+I am currently teaching myself how to code websites. 
+
