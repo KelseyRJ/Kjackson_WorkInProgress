@@ -1,0 +1,36 @@
+/* main styles* */
+
+body {
+    background-color: lightslategray;
+    color: white;
+
+}
+
+header {
+    background-color: teal;
+    color: white;
+    margin: auto;
+    text-align: center;
+    font-size: 22px;
+    padding: 50px; 
+
+}
+
+h2 {
+    margin: 50px 10px auto;
+    text-align: left;
+}
+
+.languages {
+    background-color: teal;
+    color: white;
+    margin: 50px;
+    display: inline-block;
+    padding: 10px;
+   
+
+}
+
+.languageHeaders {
+    text-align: center;
+}
